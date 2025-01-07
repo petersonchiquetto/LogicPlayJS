@@ -1,0 +1,20 @@
+# requirements.txt
+
+# This project is JavaScript-based and does not require Python dependencies.
+# However, if you need to include tools for web development, I suggest:
+
+# For development servers:
+http-server==0.12.3
+live-server==1.2.1
+
+# For code linting and formatting:
+eslint==8.48.0
+prettier==3.0.0
+stylelint==15.0.0
+
+# For dependency management:
+npm-check==5.9.2
+
+# For JavaScript application testing:
+jest==29.7.0
+cypress==12.17.3
